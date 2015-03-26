@@ -1,32 +1,29 @@
 {
-  "name": "titleNoty",
-  "version": "0.0.0",
-  "homepage": "https://github.com/vincenthou/titleNoty",
-  "authors": [
-    "vincenthou <vincenthou365@gmail.com>"
-  ],
-  "description": "Show notification on browser tab title",
-  "main": [
-    "dist/titleNoty.js"
-  ],
-  "moduleType": [
-    "amd"
-  ],
-  "keywords": [
-    "front-end",
-    "title",
-    "notification"
-  ],
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests",
-    "js",
-    "index.html",
-    "gulpfile.js",
-    ".gitignore"
-  ]
+    "name": "title-notification",
+    "version": "1.0.0",
+    "homepage": "https://github.com/snoob/title-notification",
+    "authors": [
+        "Yannick Snobbert <yannicksnobbert@gmail.com>"
+    ],
+    "description": "Show notification on tab title",
+    "main": [
+        "dist/title-notification.min.js"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "front-end",
+        "title",
+        "notification"
+    ],
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests",
+        "js",
+        "index.html",
+        "gulpfile.js",
+        ".gitignore"
+    ]
 }
