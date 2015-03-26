@@ -39,8 +39,7 @@ You can add a count number before title.
 **counterWrapper** is used to specify the wrapper for counter, default wrapper is '(%count%)', count is used as the placeholder for replacing the count number.
 
 ```javascript
-titleNotify.init({
-});
+titleNotify.init();
 ```
 
 Add count number
