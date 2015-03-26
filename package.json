@@ -1,0 +1,30 @@
+{
+    "name": "title-notify",
+    "version": "1.0.0",
+    "description": "Show notification on title title",
+    "main": "gulpfile.js",
+    "dependencies": {},
+    "devDependencies": {
+        "gulp": "^3.8.10",
+        "gulp-load-plugins": "^0.8.0",
+        "gulp-uglify": "^1.1.0"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/snoob/title-notify.git"
+    },
+    "keywords": [
+        "front-end",
+        "title",
+        "notification"
+    ],
+    "author": "Yannick Snobbert",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/snoob/title-notify/issues"
+    },
+    "homepage": "https://github.com/snoob/title-notify"
+}
