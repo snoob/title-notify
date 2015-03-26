@@ -4,7 +4,7 @@ Simple plugin to notify with page title. The title resets automatically when pag
 #Installation
 Bower support
 ```javascript
-bower install title-notification
+bower install title-notify
 ```
 
 #Usage
